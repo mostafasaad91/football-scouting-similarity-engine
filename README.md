@@ -64,7 +64,7 @@ Built to solve a real club Sporting Director workflow: *"If we lose Florian Wirt
 
 | 2D PCA Tactical Role Space | Silhouette Curve & Archetype DNA |
 |---|---|
-| ![PCA Map](outputs/figures/01_pca_tactical_map.png) | ![Archetypes](outputs/figures/02_archetypes_heatmap.png) |
+| ![PCA Map](outputs/figures/01_pca_tactical_map.png) | ![Archetypes](outputs/figures/02_silhouette_archetypes.png) |
 
 | Top-5 Statistical Twin Shortlists | Head-to-Head Scouting Card (Wirtz vs Yamal) |
 |---|---|
