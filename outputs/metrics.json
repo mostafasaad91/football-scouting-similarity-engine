@@ -1,0 +1,313 @@
+{
+  "dataset": "StatsBomb Open Data (FIFA World Cup 2022 + UEFA Euro 2024 + Bundesliga 2023/24)",
+  "qa_summary": {
+    "total_players": 1305,
+    "goalkeepers_excluded": 81,
+    "low_minutes_excluded": 863,
+    "eligible_outfield_players": 361
+  },
+  "eligible_players": 361,
+  "silhouette_scores": {
+    "4": 0.1961,
+    "5": 0.1876,
+    "6": 0.1714,
+    "7": 0.1455,
+    "8": 0.1447
+  },
+  "optimal_k": 4,
+  "pca_variance_explained_pct": [
+    37.5,
+    18.8
+  ],
+  "archetype_counts": {
+    "Balanced Wide / Fullback": 138,
+    "Deep Playmaker / Metronome": 111,
+    "Creative Winger / #10": 61,
+    "Penalty-Box Finisher / #9": 51
+  },
+  "role_counts": {
+    "Center Back": 104,
+    "Central Midfielder": 87,
+    "Fullback / Wingback": 72,
+    "Attacking Mid / Winger": 59,
+    "Striker": 39
+  },
+  "sample_shortlists": [
+    {
+      "target_player": "Florian Wirtz",
+      "target_team": "Germany",
+      "target_role": "Attacking Mid / Winger",
+      "target_archetype": "Creative Winger / #10",
+      "target_minutes": 2734.3,
+      "top_matches": [
+        {
+          "player_name": "Lamine Yamal Nasraoui Ebana",
+          "team": "Spain",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 514.0,
+          "similarity_pct": 96.0,
+          "npxg_p90": 0.278,
+          "xa_p90": 0.376,
+          "prog_passes_p90": 5.603,
+          "prog_carries_p90": 14.183
+        },
+        {
+          "player_name": "Nicholas Williams Arthuer",
+          "team": "Spain",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 648.2,
+          "similarity_pct": 95.0,
+          "npxg_p90": 0.132,
+          "xa_p90": 0.171,
+          "prog_passes_p90": 5.554,
+          "prog_carries_p90": 11.385
+        },
+        {
+          "player_name": "Amine Adli",
+          "team": "Bayer Leverkusen",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 949.9,
+          "similarity_pct": 94.3,
+          "npxg_p90": 0.292,
+          "xa_p90": 0.231,
+          "prog_passes_p90": 4.927,
+          "prog_carries_p90": 9.096
+        },
+        {
+          "player_name": "Ousmane Dembélé",
+          "team": "France",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 812.6,
+          "similarity_pct": 93.9,
+          "npxg_p90": 0.091,
+          "xa_p90": 0.25,
+          "prog_passes_p90": 5.095,
+          "prog_carries_p90": 15.284
+        },
+        {
+          "player_name": "Daniel Olmo Carvajal",
+          "team": "Spain",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 989.6,
+          "similarity_pct": 93.5,
+          "npxg_p90": 0.236,
+          "xa_p90": 0.197,
+          "prog_passes_p90": 3.183,
+          "prog_carries_p90": 8.822
+        }
+      ]
+    },
+    {
+      "target_player": "Granit Xhaka",
+      "target_team": "Switzerland",
+      "target_role": "Central Midfielder",
+      "target_archetype": "Balanced Wide / Fullback",
+      "target_minutes": 3774.2,
+      "top_matches": [
+        {
+          "player_name": "Vitor Machado Ferreira",
+          "team": "Portugal",
+          "role_group": "Central Midfielder",
+          "archetype": "Balanced Wide / Fullback",
+          "minutes": 488.7,
+          "similarity_pct": 92.2,
+          "npxg_p90": 0.128,
+          "xa_p90": 0.035,
+          "prog_passes_p90": 8.471,
+          "prog_carries_p90": 12.523
+        },
+        {
+          "player_name": "Weston McKennie",
+          "team": "United States",
+          "role_group": "Central Midfielder",
+          "archetype": "Balanced Wide / Fullback",
+          "minutes": 275.1,
+          "similarity_pct": 87.0,
+          "npxg_p90": 0.123,
+          "xa_p90": 0.033,
+          "prog_passes_p90": 11.778,
+          "prog_carries_p90": 10.142
+        },
+        {
+          "player_name": "Luka Modrić",
+          "team": "Croatia",
+          "role_group": "Central Midfielder",
+          "archetype": "Balanced Wide / Fullback",
+          "minutes": 912.4,
+          "similarity_pct": 86.7,
+          "npxg_p90": 0.091,
+          "xa_p90": 0.093,
+          "prog_passes_p90": 13.218,
+          "prog_carries_p90": 11.541
+        },
+        {
+          "player_name": "Bernardo Mota Veiga de Carvalho e Silva",
+          "team": "Portugal",
+          "role_group": "Central Midfielder",
+          "archetype": "Creative Winger / #10",
+          "minutes": 808.5,
+          "similarity_pct": 86.3,
+          "npxg_p90": 0.095,
+          "xa_p90": 0.095,
+          "prog_passes_p90": 5.677,
+          "prog_carries_p90": 13.135
+        },
+        {
+          "player_name": "Robert Andrich",
+          "team": "Germany",
+          "role_group": "Central Midfielder",
+          "archetype": "Balanced Wide / Fullback",
+          "minutes": 2080.3,
+          "similarity_pct": 86.2,
+          "npxg_p90": 0.086,
+          "xa_p90": 0.082,
+          "prog_passes_p90": 9.604,
+          "prog_carries_p90": 6.836
+        }
+      ]
+    },
+    {
+      "target_player": "Kylian Mbappé Lottin",
+      "target_team": "France",
+      "target_role": "Attacking Mid / Winger",
+      "target_archetype": "Creative Winger / #10",
+      "target_minutes": 1102.3,
+      "top_matches": [
+        {
+          "player_name": "Neymar da Silva Santos Junior",
+          "team": "Brazil",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 282.8,
+          "similarity_pct": 97.2,
+          "npxg_p90": 0.428,
+          "xa_p90": 0.117,
+          "prog_passes_p90": 7.956,
+          "prog_carries_p90": 15.594
+        },
+        {
+          "player_name": "Jamal Musiala",
+          "team": "Germany",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 818.8,
+          "similarity_pct": 92.3,
+          "npxg_p90": 0.231,
+          "xa_p90": 0.109,
+          "prog_passes_p90": 2.968,
+          "prog_carries_p90": 14.289
+        },
+        {
+          "player_name": "Vinícius José Paixão de Oliveira Júnior",
+          "team": "Brazil",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 305.6,
+          "similarity_pct": 90.9,
+          "npxg_p90": 0.239,
+          "xa_p90": 0.165,
+          "prog_passes_p90": 2.651,
+          "prog_carries_p90": 13.842
+        },
+        {
+          "player_name": "Kenan Yildiz",
+          "team": "Turkey",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Penalty-Box Finisher / #9",
+          "minutes": 345.2,
+          "similarity_pct": 90.4,
+          "npxg_p90": 0.154,
+          "xa_p90": 0.012,
+          "prog_passes_p90": 1.564,
+          "prog_carries_p90": 9.647
+        },
+        {
+          "player_name": "Rafael Alexandre Conceição Leão",
+          "team": "Portugal",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 406.6,
+          "similarity_pct": 90.4,
+          "npxg_p90": 0.095,
+          "xa_p90": 0.133,
+          "prog_passes_p90": 4.87,
+          "prog_carries_p90": 15.273
+        }
+      ]
+    },
+    {
+      "target_player": "Jude Bellingham",
+      "target_team": "England",
+      "target_role": "Attacking Mid / Winger",
+      "target_archetype": "Balanced Wide / Fullback",
+      "target_minutes": 1115.2,
+      "top_matches": [
+        {
+          "player_name": "Jamal Musiala",
+          "team": "Germany",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 818.8,
+          "similarity_pct": 84.7,
+          "npxg_p90": 0.231,
+          "xa_p90": 0.109,
+          "prog_passes_p90": 2.968,
+          "prog_carries_p90": 14.289
+        },
+        {
+          "player_name": "Lovro Majer",
+          "team": "Wolfsburg",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 392.8,
+          "similarity_pct": 82.9,
+          "npxg_p90": 0.229,
+          "xa_p90": 0.12,
+          "prog_passes_p90": 4.582,
+          "prog_carries_p90": 9.394
+        },
+        {
+          "player_name": "Jae-Sung Lee",
+          "team": "South Korea",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Balanced Wide / Fullback",
+          "minutes": 373.6,
+          "similarity_pct": 82.6,
+          "npxg_p90": 0.108,
+          "xa_p90": 0.015,
+          "prog_passes_p90": 2.168,
+          "prog_carries_p90": 4.336
+        },
+        {
+          "player_name": "Jeremy Doku",
+          "team": "Belgium",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Creative Winger / #10",
+          "minutes": 343.1,
+          "similarity_pct": 79.5,
+          "npxg_p90": 0.067,
+          "xa_p90": 0.164,
+          "prog_passes_p90": 3.672,
+          "prog_carries_p90": 18.624
+        },
+        {
+          "player_name": "Sofiane Boufal",
+          "team": "Morocco",
+          "role_group": "Attacking Mid / Winger",
+          "archetype": "Balanced Wide / Fullback",
+          "minutes": 473.6,
+          "similarity_pct": 78.2,
+          "npxg_p90": 0.06,
+          "xa_p90": 0.082,
+          "prog_passes_p90": 5.131,
+          "prog_carries_p90": 9.882
+        }
+      ]
+    }
+  ]
+}
