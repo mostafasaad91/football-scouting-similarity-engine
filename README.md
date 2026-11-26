@@ -1,5 +1,10 @@
 # Football Scouting & Tactical Player Similarity Engine
 
+[![Pipeline CI](https://github.com/mostafasaad91/football-scouting-similarity-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/mostafasaad91/football-scouting-similarity-engine/actions/workflows/ci.yml)
+![Python 3.11](https://img.shields.io/badge/Python-3.11-00E5FF?style=flat-square&logo=python&logoColor=white)
+![361 Eligible Players](https://img.shields.io/badge/StatsBomb-361%20Outfield%20Players-10B981?style=flat-square)
+![Cosine Similarity](https://img.shields.io/badge/Cosine%20Twins-Wirtz%20%E2%86%92%20Yamal%2096%25-00E5FF?style=flat-square)
+
 > **End-to-End Football Recruitment Analytics & Unsupervised ML** — Official **StatsBomb Open Data** (**1,305 real players** across **149 matches**: FIFA World Cup 2022 + UEFA Euro 2024 + Bundesliga 2023/24) · SQLite Per-90 Scouting Mart · **Silhouette-Optimized K-Means Role Discovery** · **PCA Tactical Space** · **Role-Gated Cosine Similarity "Find a Replacement" Engine** · Same-Role Percentile Comparison Cards.
 
 ![Recruitment Similarity Shortlists](outputs/figures/03_similarity_shortlist.png)
