@@ -1,4 +1,4 @@
-# Project Story — Football Scouting & Tactical Player Similarity Engine
+# Project Story — Football Scouting — Tactical Role & Player Similarity Engine
 ## قصة بناء المشروع: ليه عملناه، إزاي اتبنى، وإيه الأسئلة والتحديات اللي واجهتنا؟
 
 ---

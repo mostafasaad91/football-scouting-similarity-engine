@@ -324,7 +324,7 @@ def main():
     fig.savefig(FIG_DIR / "04_scouting_comparison_card.png", facecolor=BG)
     plt.close(fig)
 
-    print("[5/5] Football Scouting Similarity Engine complete!")
+    print("[5/5] Football Scouting — Role & Similarity Engine complete!")
 
 
 if __name__ == "__main__":

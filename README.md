@@ -1,4 +1,4 @@
-# Football Scouting & Tactical Player Similarity Engine
+# Football Scouting — Tactical Role & Player Similarity Engine
 
 [![Pipeline CI](https://github.com/mostafasaad91/football-scouting-similarity-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/mostafasaad91/football-scouting-similarity-engine/actions/workflows/ci.yml)
 ![Python 3.11](https://img.shields.io/badge/Python-3.11-00E5FF?style=flat-square&logo=python&logoColor=white)
